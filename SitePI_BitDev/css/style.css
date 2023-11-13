@@ -14,6 +14,11 @@ body{
     height: 100px;
     display: flex;
 }
+
+nav a:hover{
+
+    color: #d6a314;
+}
 .textnav{
     font-size: 22px;
     color: #ffffff;
